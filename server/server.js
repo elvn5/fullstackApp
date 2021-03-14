@@ -3,7 +3,7 @@ const app = express();
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
 const uri =
-  "mongodb+srv://zetxc:erma219611@cluster0.itkt4.mongodb.net/test?retryWrites=true&w=majority";
+  "YOUR_URI";
 const MongoClient = require("mongodb").MongoClient;
 const bodyParser = require("body-parser");
 const PORT = 5000;
