@@ -1,4 +1,4 @@
-#Description
+# Description
 
 This is a fullstack application was built on the next stack of technologies:
 
@@ -7,7 +7,7 @@ This is a fullstack application was built on the next stack of technologies:
 :white_check_mark: React.js
 :white_check_mark: Node.js
 
-# Available scripts:
+## Available scripts:
 ____
 In directory "server"
 
